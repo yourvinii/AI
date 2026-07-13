@@ -1,1 +1,6 @@
-print("Hello \nVinayak")
+a = float(input("Enter first number : "))
+b = float(input("Enter second number : "))
+
+avg = (a+b)/2
+
+print("Avg of 2 num : ",avg)
